@@ -5,9 +5,9 @@ A range of predicting techniques, i.e. Random Forest, Logistic Regression, Decis
 
 The data source, visualisation, data selection and pre-processing are presented at the file Data Exploration.
 
-The application of different techniques consisting of bag of word, Word2Vec, Doc2Vec, TF-IDF, word embeddings, and Paragraph Vector-Distributed Memory (PV-DM) model can be found in the file Transformation.
+The application of different techniques consisting of bag of word, Word2Vec, Doc2Vec, TF-IDF, word embeddings, and Paragraph Vector-Distributed Memory (PV-DM) model can be found in the file Transformation+Processing.
 
-Finally, the different kinds of transformed data are utilized to train models consisting of Decision Tree, Logistic Regression, Random Forest and Recurrent Neural Network based model (Bi-LSTM, Bi-GRU) to predict ratings for reviews. The source code and the experiment results are shown in the file Processing however as RNN based model is not my responsibility in the project, the source code of this part won't be uploaded on my personal github.
+Finally, the different kinds of transformed data are utilized to train models consisting of Decision Tree, Logistic Regression, Random Forest and Recurrent Neural Network based model (Bi-LSTM, Bi-GRU) to predict ratings for reviews. The source code and the experiment results are shown in the file Transformation+Processing however as RNN based model is not my responsibility in the project, the source code of this part won't be uploaded on my personal github.
 
 
 
