@@ -22,5 +22,5 @@ The experimental results appear to show the following findings in the multi-clas
 • The Glove embedding approach brings better performance for the RNN-based model in predicting review rating stars, while the self-trained Word2Vec approach appears to be a better choice for machine learning-based models in predicting ratings.
 • The Mean Word2Vec has been shown to be outperformed other Word2Vec-based and Doc2Vec methods.
 
-
+Notes: Pls open the source code file on Google Colab for the best understanding
 """
